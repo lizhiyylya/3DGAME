@@ -1,0 +1,66 @@
+2020-04-16 14:32:20-log: ui-kit@1.0.0 enable
+2020-04-16 14:32:20-log: ipc@1.0.0 enable
+2020-04-16 14:32:20-log: tester@1.0.0 enable
+2020-04-16 14:32:20-log: preferences@1.0.0 enable
+2020-04-16 14:32:21-log: engine@1.0.0 enable
+2020-04-16 14:32:21-log: asset-db@1.0.0 enable
+2020-04-16 14:32:21-log: console@1.0.0 enable
+2020-04-16 14:32:21-log: scene@1.0.0 enable
+2020-04-16 14:32:21-log: packager@1.0.0 enable
+2020-04-16 14:32:21-log: project-setting@1.0.0 enable
+2020-04-16 14:32:21-log: about@1.0.0 enable
+2020-04-16 14:32:21-log: server@1.0.0 enable
+2020-04-16 14:32:21-log: utils@1.0.0 enable
+2020-04-16 14:32:21-log: profile@1.0.0 enable
+2020-04-16 14:32:21-log: assets@1.0.0 enable
+2020-04-16 14:32:21-log: inspector@1.0.0 enable
+2020-04-16 14:32:21-log: hierarchy@1.0.0 enable
+2020-04-16 14:32:21-log: preview@1.0.0 enable
+2020-04-16 14:32:21-log: animator@1.0.0 enable
+2020-04-16 14:32:21-warn: Port 7456 is occupied
+2020-04-16 14:32:21-warn: Port 7457 is occupied
+2020-04-16 14:32:22-log: builder@1.0.0 enable
+2020-04-16 14:32:22-log: alipay-mini-game@1.0.0 enable
+2020-04-16 14:32:22-log: android@1.0.0 enable
+2020-04-16 14:32:22-log: baidu-mini-game@1.0.0 enable
+2020-04-16 14:32:22-log: cocos-play@1.0.0 enable
+2020-04-16 14:32:22-log: huawei-mini-game@1.0.0 enable
+2020-04-16 14:32:22-log: ios@1.0.0 enable
+2020-04-16 14:32:22-log: mac@1.0.0 enable
+2020-04-16 14:32:22-log: native@1.0.0 enable
+2020-04-16 14:32:22-log: oppo-mini-game@1.0.0 enable
+2020-04-16 14:32:22-log: vivo-mini-game@1.0.0 enable
+2020-04-16 14:32:22-log: web-desktop@1.0.0 enable
+2020-04-16 14:32:22-log: web-mobile@1.0.0 enable
+2020-04-16 14:32:22-log: wechatgame@1.0.0 enable
+2020-04-16 14:32:22-log: windows@1.0.0 enable
+2020-04-16 14:32:22-log: xiaomi-quick-game@1.0.0 enable
+2020-04-16 14:32:59-warn: 移动资源失败: 目标地址的父级地址不正确 
+source: db://assets/scene
+target: db://assets/scene/scene
+2020-04-16 15:13:13-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:13:57-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:16:43-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:20:20-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:20:21-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:20:21-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:20:21-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:20:21-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-16 15:24:07-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7458/scripting/assets/Scripts/main.js
+2020-04-16 15:24:07-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7458/scripting/assets/Scripts/main.js
+2020-04-16 15:24:08-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7458/scripting/assets/Scripts/main.js
+2020-04-16 15:26:53-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-16 16:21:31-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-16 16:21:35-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-16 16:21:35-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-16 16:21:55-warn: [Window] Error: IPC time out
+2020-04-16 16:21:55-error: [Window] Error: IPC time out
+2020-04-16 16:21:55-warn: [Scene] Error: IPC time out
+2020-04-16 16:21:55-warn: [Window] IPC message has been lost, response may timeout.
+2020-04-16 16:21:55-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-16 16:22:15-warn: [Window] Error: IPC time out
+2020-04-16 16:22:15-error: [Window] Error: IPC time out
+2020-04-16 16:22:15-warn: [Scene] Error: IPC time out
+2020-04-16 16:22:15-warn: [Window] IPC message has been lost, response may timeout.
+2020-04-16 16:22:28-warn: [Scene] IPC message has been lost, response may timeout.
+2020-04-16 16:22:28-warn: [Scene] IPC message has been lost, response may timeout.
