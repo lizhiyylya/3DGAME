@@ -1,5 +1,6 @@
 {
   "name": "step",
   "type": "3d",
-  "uuid": "9311fcd5-28e4-4c79-bfe3-f98508a9ad4b"
+  "uuid": "9311fcd5-28e4-4c79-bfe3-f98508a9ad4b",
+  "version": "1.0.4"
 }

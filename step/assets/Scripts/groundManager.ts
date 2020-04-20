@@ -13,29 +13,28 @@ export class GameManager extends Component {
     public cubePrfb: Prefab = null;
     @property({type: CCInteger})
     public roadLength: Number = 50;
-    private _road: number[] = [];
+    private _ground: number[] = [];
 
     start () {
-        this.generateRoad();
+        this.generateGround();
     }
 
-    generateRoad() {
+    generateGround() {
+
         this.node.removeAllChildren();
-
-        this._road = [];
+        this._ground = [];
         // startPos
-        this._road.push(BlockType.BT_STONE);
-
+        this._ground.push(BlockType.BT_STONE);
         for (let i = 1; i < this.roadLength; i++) {
-            if (this._road[i-1] === BlockType.BT_NONE) {
-                this._road.push(BlockType.BT_STONE);
+            if (this._ground[i-1] === BlockType.BT_NONE) {
+                this._ground.push(BlockType.BT_STONE);
             } else {
-                this._road.push(Math.floor(Math.random() * 2));
+                this._ground.push(Math.floor(Math.random() * 2));
             }
         }
 
-        for (let j = 0; j < this._road.length; j++) {
-            let block: Node = this.spawnBlockByType(this._road[j]);
+        for (let j = 0; j < this._ground.length; j++) {
+            let block: Node = this.spawnBlockByType(this._ground[j]);
             if (block) {
                 this.node.addChild(block);
                 block.setPosition(j, -1.5, 0);

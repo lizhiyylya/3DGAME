@@ -54,12 +54,28 @@ export class PlayerController extends Component {
         this._isMoving = false;
     }
 
+    // updataCamera(deltapos){
+
+    // };
+
     update (deltaTime: number) {
         if (this._startJump) {
             this._curJumpTime += deltaTime;
             if (this._curJumpTime > this._jumpTime) {
                 // end
+
+                this.node.getPosition(this._curPos);
+                Vec3.subtract(this._deltaPos, this._targetPos, this._curPos);
                 this.node.setPosition(this._targetPos);
+
+                var scene = cc.director.getScene();
+                var node = scene.getChildByName("Camera");
+                var pos = cc.v3(0, 0, 0);
+                node.getPosition(pos);
+                Vec3.add(pos, pos, this._deltaPos);
+                node.setPosition(pos);
+                node.lookAt(this.node.getPosition(), node.up);
+
                 this._startJump = false;
                 this.onOnceJumpEnd();
             } else {
@@ -68,6 +84,15 @@ export class PlayerController extends Component {
                 this._deltaPos.x = this._curJumpSpeed * deltaTime;
                 Vec3.add(this._curPos, this._curPos, this._deltaPos);
                 this.node.setPosition(this._curPos);
+
+                
+                var scene = cc.director.getScene();
+                var node = scene.getChildByName("Camera");
+                var pos = cc.v3(0, 0, 0);
+                node.getPosition(pos);
+                Vec3.add(pos, pos, this._deltaPos);
+                node.setPosition(pos);
+                node.lookAt(this.node.getPosition(), node.up);
             }
         }
     }
