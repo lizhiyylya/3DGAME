@@ -1,0 +1,107 @@
+{
+  "file2uuids": {
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\general-vs.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\general-vs.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\cc-global.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\cc-local-batch.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\cc-local.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\input-standard.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\decode-standard.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\decode-base.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\cc-skinning.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\skinning-lbs.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\unlit-fs.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\output.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\gamma.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\standard-vs.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shared-ubos.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\standard-fs.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shading-standard.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-environment.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unpack.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\lighting.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-forward-light.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\standard-vs.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\shared-ubos.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\standard-fs.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\shading-standard.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\cc-environment.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\unpack.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\texture-lod.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\common.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\lighting.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\cc-forward-light.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\output-standard.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\aces.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\unlit-vs.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\input.chunk": [],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\decode.chunk": [],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-vs.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\CocosCreator3D\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-fs.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\sprite-vs.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ],
+    "G:\\3DGame\\step\\step\\assets\\chunks\\sprite-fs.chunk": [
+      "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+    ]
+  },
+  "uuid2uuids": {
+    "1baf0fc9-befa-459c-8bdd-af1a450a0319": [
+      "6ccbd21b-b2d0-4927-ab4b-266e3a7b4da3",
+      "0bfe3f34-dddc-44bf-9857-8143c154b75e",
+      "10a64dc5-5c87-4b6f-a66a-ce2d6bddee50",
+      "d733e664-1b60-450c-8e6f-89711a7f6bf2",
+      "76f773f3-b291-44d5-b0d5-7356c29943c3",
+      "ba6eeb05-63e6-463d-81cc-66ebd6e58fea",
+      "12f98334-474a-4990-9884-f0927ea3ed1b",
+      "7cee6529-c34e-4ed6-bec5-fe22088ce2be",
+      "9e5f26b0-7fcd-446a-aa64-577c03ad6f35",
+      "e3969137-5769-4751-845b-49f1067b91f2",
+      "aaf833f1-c7c0-4f5c-b20a-7b4267700453",
+      "8f9574b9-75fd-43bd-9928-d7afb384c946",
+      "71ee7dfb-de88-42ff-a9e6-ff41d398d665",
+      "33a0d7f8-067c-48a4-a0bd-d42e3f18a8b3",
+      "9082c777-6bcb-4216-b9bc-938a84bf2aa1",
+      "b3400943-de4a-4db7-91a2-64295c699956",
+      "afc6a51c-9c0f-4b20-a6c0-d36175361ed1",
+      "ea4c7d94-f3aa-43f7-857b-806eea7ddde3",
+      "c740031a-aa76-4db8-9255-2ec509cd81b8"
+    ],
+    "22274ee0-3e1d-455e-889a-3a6cf0b41f4e": [
+      "e3969137-5769-4751-845b-49f1067b91f2",
+      "aaf833f1-c7c0-4f5c-b20a-7b4267700453",
+      "10a64dc5-5c87-4b6f-a66a-ce2d6bddee50",
+      "c740031a-aa76-4db8-9255-2ec509cd81b8"
+    ]
+  }
+}

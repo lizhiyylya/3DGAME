@@ -1,77 +1,121 @@
-2020-04-20 14:33:17-log: ui-kit@1.0.0 enable
-2020-04-20 14:33:17-log: ipc@1.0.0 enable
-2020-04-20 14:33:17-log: tester@1.0.0 enable
-2020-04-20 14:33:17-log: preferences@1.0.0 enable
-2020-04-20 14:33:20-log: engine@1.0.0 enable
-2020-04-20 14:33:20-log: asset-db@1.0.0 enable
-2020-04-20 14:33:20-log: console@1.0.0 enable
-2020-04-20 14:33:20-log: scene@1.0.0 enable
-2020-04-20 14:33:20-log: packager@1.0.0 enable
-2020-04-20 14:33:20-log: project-setting@1.0.0 enable
-2020-04-20 14:33:20-log: about@1.0.0 enable
-2020-04-20 14:33:20-log: server@1.0.0 enable
-2020-04-20 14:33:20-log: utils@1.0.0 enable
-2020-04-20 14:33:20-log: profile@1.0.0 enable
-2020-04-20 14:33:20-log: assets@1.0.0 enable
-2020-04-20 14:33:20-log: inspector@1.0.0 enable
-2020-04-20 14:33:20-log: hierarchy@1.0.0 enable
-2020-04-20 14:33:21-log: preview@1.0.0 enable
-2020-04-20 14:33:21-log: animator@1.0.0 enable
-2020-04-20 14:33:21-log: builder@1.0.0 enable
-2020-04-20 14:33:21-log: alipay-mini-game@1.0.0 enable
-2020-04-20 14:33:21-log: android@1.0.0 enable
-2020-04-20 14:33:21-log: baidu-mini-game@1.0.0 enable
-2020-04-20 14:33:21-log: cocos-play@1.0.0 enable
-2020-04-20 14:33:21-log: huawei-mini-game@1.0.0 enable
-2020-04-20 14:33:21-log: ios@1.0.0 enable
-2020-04-20 14:33:21-log: mac@1.0.0 enable
-2020-04-20 14:33:21-log: native@1.0.0 enable
-2020-04-20 14:33:21-log: oppo-mini-game@1.0.0 enable
-2020-04-20 14:33:21-log: vivo-mini-game@1.0.0 enable
-2020-04-20 14:33:21-log: web-desktop@1.0.0 enable
-2020-04-20 14:33:21-log: web-mobile@1.0.0 enable
-2020-04-20 14:33:21-log: wechatgame@1.0.0 enable
-2020-04-20 14:33:21-log: windows@1.0.0 enable
-2020-04-20 14:33:21-log: xiaomi-quick-game@1.0.0 enable
-2020-04-20 16:06:05-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 16:06:05-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 16:56:38-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 16:56:39-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:11:46-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:11:46-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:15:38-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:15:38-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:16:02-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:16:02-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:43:45-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:43:45-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:45:47-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:45:47-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:46:44-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:44-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:44-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:47-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:47-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:47-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:47-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:46:47-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:48:31-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:48:31-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:48:31-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:48:31-error: [preview-error]Uncaught TypeError: Cannot read property 'x' of undefined in http://localhost:7456/scripting/engine/cocos/core/math/vec3.js
-2020-04-20 17:49:43-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:49:43-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:53:32-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:53:33-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:55:49-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:55:49-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:58:13-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 17:58:13-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:02:26-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:02:26-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:08:59-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:08:59-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:18:45-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:18:45-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:19:32-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
-2020-04-20 18:19:33-error: [Scene] A Class already exists with the same __classname__ : "GameManager".
+2020-04-22 14:11:26-log: ui-kit@1.0.0 enable
+2020-04-22 14:11:26-log: ipc@1.0.0 enable
+2020-04-22 14:11:26-log: tester@1.0.0 enable
+2020-04-22 14:11:26-log: preferences@1.0.0 enable
+2020-04-22 14:11:27-log: engine@1.0.0 enable
+2020-04-22 14:11:28-log: asset-db@1.0.0 enable
+2020-04-22 14:11:28-log: console@1.0.0 enable
+2020-04-22 14:11:28-log: scene@1.0.0 enable
+2020-04-22 14:11:28-log: packager@1.0.0 enable
+2020-04-22 14:11:28-log: project-setting@1.0.0 enable
+2020-04-22 14:11:28-log: about@1.0.0 enable
+2020-04-22 14:11:28-log: server@1.0.0 enable
+2020-04-22 14:11:28-log: utils@1.0.0 enable
+2020-04-22 14:11:28-log: profile@1.0.0 enable
+2020-04-22 14:11:28-log: assets@1.0.0 enable
+2020-04-22 14:11:28-log: inspector@1.0.0 enable
+2020-04-22 14:11:28-log: hierarchy@1.0.0 enable
+2020-04-22 14:11:28-log: preview@1.0.0 enable
+2020-04-22 14:11:28-log: animator@1.0.0 enable
+2020-04-22 14:11:28-log: builder@1.0.0 enable
+2020-04-22 14:11:28-log: alipay-mini-game@1.0.0 enable
+2020-04-22 14:11:28-log: android@1.0.0 enable
+2020-04-22 14:11:28-log: baidu-mini-game@1.0.0 enable
+2020-04-22 14:11:28-log: cocos-play@1.0.0 enable
+2020-04-22 14:11:28-log: huawei-mini-game@1.0.0 enable
+2020-04-22 14:11:28-log: ios@1.0.0 enable
+2020-04-22 14:11:28-log: mac@1.0.0 enable
+2020-04-22 14:11:28-log: native@1.0.0 enable
+2020-04-22 14:11:28-log: oppo-mini-game@1.0.0 enable
+2020-04-22 14:11:28-log: vivo-mini-game@1.0.0 enable
+2020-04-22 14:11:28-log: web-desktop@1.0.0 enable
+2020-04-22 14:11:28-log: web-mobile@1.0.0 enable
+2020-04-22 14:11:28-log: wechatgame@1.0.0 enable
+2020-04-22 14:11:28-log: windows@1.0.0 enable
+2020-04-22 14:11:28-log: xiaomi-quick-game@1.0.0 enable
+2020-04-22 14:11:34-error: [Scene] Error: Can not get asset url by uuid "10a64dc5-5c87-4b6f-a66a-ce2d6bddee50", the asset may be deleted.
+2020-04-22 14:12:32-warn: [Window] Please select the correct path under the project assets folder
+2020-04-22 14:17:40-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:17:41-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:19:24-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:19:25-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:20:18-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:20:19-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:20:32-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:46-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:48-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:50-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:51-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:52-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:54-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:22:56-error: [preview-error]Uncaught TypeError: Cannot read property 'play' of null in http://localhost:7456/scripting/assets/Scripts/groundManager.js
+2020-04-22 14:33:07-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:33:08-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:33:08-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:33:08-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:33:09-info: asset(G:\3DGame\step\step\assets\resources\model\ground\groundClick.anim) saved
+2020-04-22 14:33:57-info: asset(G:\3DGame\step\step\assets\resources\model\ground\ground.mtl) saved
+2020-04-22 14:38:57-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 14:41:12-warn: [Scene] Reference "groundAnim" of "player<PlayerController>" to external scene object "highLightGround" can not be saved in prefab asset.
+2020-04-22 14:42:08-warn: [Scene] Reference "groundAnim" of "player<PlayerController>" to external scene object "highLightGround" can not be saved in prefab asset.
+2020-04-22 14:42:11-info: asset(G:\3DGame\step\step\assets\Animation\oneStep.anim) saved
+2020-04-22 14:42:15-warn: [Scene] Reference "groundAnim" of "player<PlayerController>" to external scene object "highLightGround" can not be saved in prefab asset.
+2020-04-22 14:46:08-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 15:12:41-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 15:38:03-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 15:47:49-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 15:47:59-warn: [Scene] 9200
+2020-04-22 15:48:00-warn: [Scene] 9200
+2020-04-22 15:48:00-warn: [Scene] 9200
+2020-04-22 15:48:00-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 15:48:01-warn: [Scene] 9200
+2020-04-22 15:48:01-warn: [Scene] 9200
+2020-04-22 15:48:05-warn: [Scene] 9200
+2020-04-22 15:48:05-warn: [Scene] 9200
+2020-04-22 15:48:05-warn: [Scene] 9200
+2020-04-22 15:48:05-warn: [Scene] 9200
+2020-04-22 15:48:05-warn: [Scene] 9200
+2020-04-22 15:48:05-warn: [Scene] 9200
+2020-04-22 15:48:06-warn: [Scene] 9200
+2020-04-22 15:48:06-warn: [Scene] 9200
+2020-04-22 15:48:06-warn: [Scene] 9200
+2020-04-22 15:48:06-warn: [Scene] 9200
+2020-04-22 15:48:06-warn: [Scene] 9200
+2020-04-22 15:48:06-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:07-warn: [Scene] 9200
+2020-04-22 15:48:08-warn: [Scene] 9200
+2020-04-22 15:48:08-warn: [Scene] 9200
+2020-04-22 15:48:08-warn: [Scene] 9200
+2020-04-22 15:48:37-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 15:48:38-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 15:48:40-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 15:48:41-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 15:48:42-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:18:26-warn: [Scene] The prefab asset no longer exist.
+2020-04-22 16:18:26-error: [Scene] TypeError: module.exports.emit is not a function
+2020-04-22 16:26:03-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:29:10-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:29:52-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:33:23-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:36:04-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:37:23-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:41:32-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:42:26-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved
+2020-04-22 16:55:37-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 16:57:31-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:02:49-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:03:29-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:19:01-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:22:25-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:26:49-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:52:39-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:55:08-warn: [Scene] Canvas's widget target must have UITransformComponent, Please add it in target
+2020-04-22 17:55:22-info: asset(G:\3DGame\step\step\assets\Scenes\mainScene.scene) saved

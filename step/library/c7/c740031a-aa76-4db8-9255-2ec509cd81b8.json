@@ -1,0 +1,136 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "22274ee0-3e1d-455e-889a-3a6cf0b41f4e"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "78beacd8-6c21-4497-bd5f-b123d06a5ca4@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "f933fc2d-8c84-4873-a49b-431a4dbb377e@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "b7f74eff-5fab-4db8-8668-104b80d8a83d@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "82b0d4be-bf6e-46f1-8f36-9732b7b18e25@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "ed910f1d-d6c2-487e-8a09-8c0bab3ec279@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "b0862130-ad29-4ad0-9c9e-0c09000333b6@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "35613050-890d-45b8-8428-1cf0f55d5918@6c48a"
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "141e8087-ad20-4336-839a-f4a6d356266a@6c48a"
+      }
+    }
+  ]
+}

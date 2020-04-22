@@ -23,9 +23,13 @@ export class PlayerController extends Component {
     @property({type: AnimationComponent})
     public BodyAnim: AnimationComponent = null;
 
+    @property({type: AnimationComponent})
+    public groundAnim: AnimationComponent = null;
+
     start () {
         // Your initialization goes here.
         systemEvent.on(SystemEvent.EventType.MOUSE_UP, this.onMouseUp, this);
+        
     }
 
     onMouseUp(event: EventMouse) {
@@ -47,6 +51,7 @@ export class PlayerController extends Component {
         this.node.getPosition(this._curPos);
         Vec3.add(this._targetPos, this._curPos, v3(this._jumpStep, 0, 0));
         this.BodyAnim.play('oneStep');
+        this.groundAnim.play('highLight');
         this._isMoving = true;
     }
 

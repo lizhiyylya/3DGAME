@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "63c84e4b-fdc5-4b7f-9b33-c047bffe428d",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/insertModel.js"
+  }
+}

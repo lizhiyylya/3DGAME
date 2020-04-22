@@ -38,7 +38,7 @@ export class GameManager extends Component {
             let block: Node = this.spawnBlockByType(this._road[j]);
             if (block) {
                 this.node.addChild(block);
-                block.setPosition(j, -1.5, 0);
+                block.setPosition(j, 0, 0);
             }
         }
     }

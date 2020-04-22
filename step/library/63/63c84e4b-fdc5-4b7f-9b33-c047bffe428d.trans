@@ -1,0 +1,5 @@
+{
+    "resolveMap": {
+        "./groundManager": "G:/3DGame/step/step/assets/Scripts/groundManager.ts"
+    }
+}
